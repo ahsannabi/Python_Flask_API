@@ -1,0 +1,5 @@
+python application.py
+python -m venv .venv
+.venv/Scripts/activate
+python -m pip install flask
+python -m pip install -U Flask-SQLAlchemy
